@@ -5,16 +5,20 @@ This repository documents the projects, code, and resources developed during the
 The internship focuses on bridging the gap between traditional data science methodologies and the cutting-edge applications of Generative AI (Gen AI), Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG). This portfolio demonstrates practical skills in data manipulation, machine learning pipeline development, prompt engineering, and the deployment of AI-powered solutions.
 
 ✨ Key Skills and Technologies
+
 Area,Key Technologies & Concepts
+
 Generative AI,"LLMs (Llama, GPT models), Prompt Engineering, Fine-tuning, Tokenization, RAG (Retrieval-Augmented Generation), LangChain, Vector Databases (Pinecone, ChromaDB)"
 Core Data Science,"Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Exploratory Data Analysis (EDA), Feature Engineering"
 Machine Learning,"Classification, Regression, Clustering, Model Evaluation, Hyperparameter Tuning"
 Development & Deployment,"GitHub, Docker, Streamlit/Gradio, AWS/Azure Basics, FastAPI (for MLOps/GenAIops)"
 
 📂 Internship Project Portfolio
+
 Here are the main projects completed during the internship, showcasing hands-on experience:
 
 1. 🤖 RAG System for Document Q&A
+2. 
 Description: Developed a complete Retrieval-Augmented Generation (RAG) pipeline to enable accurate question-answering over custom documents.
 
 Technologies Used: LangChain, Hugging Face Embeddings, ChromaDB/Pinecone (Vector Store), LLM (e.g., Llama 2 or GPT-3.5).
